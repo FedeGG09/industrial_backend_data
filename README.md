@@ -6,6 +6,8 @@ This project provides a modular, API-first architecture that enables modern fron
 
 ---
 
+## path directoy: https://industrial-backend-data.onrender.com/
+
 ## 🧠 Business Problem
 
 Industrial and B2B companies typically face:
