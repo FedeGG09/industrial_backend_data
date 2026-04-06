@@ -25,3 +25,7 @@ def pricing():
 @app.get("/kpi/revenue-by-section")
 def revenue():
     return service.revenue_by_section()
+
+@app.get("/health")
+def health():
+    return {"status": "ok"}
